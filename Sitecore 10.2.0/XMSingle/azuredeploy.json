@@ -31,7 +31,7 @@
             "name": "SCCH-5.1",
             "templateLink": "https://raw.githubusercontent.com/Sitecore/Sitecore-Azure-Quickstart-Templates/master/Connectors/SCCH%205.0.0/XMSingle/azuredeploy.json",
             "parameters": {
-              "msDeployPackageUrl": "https://pziwdpstorageaccount.blob.core.windows.net/xm102/Sitecore.Connector.ContentHub.WDP.5.1.26-r00372.4955.scwdp.zip?sv=2023-01-03&st=2024-04-11T17%3A18%3A32Z&se=2024-05-12T17%3A18%3A00Z&sr=b&sp=r&sig=%2B0%2FMC%2Bm3BHKK%2ByvT86pE35u%2BdV4hV9n9ZgUd4so4ZXA%3D"
+              "msDeployPackageUrl": "https://pziwdpstorageaccount.blob.core.windows.net/xm102/Sitecore.Connector.ContentHub.WDP.5.1.26-r00372.4955.scwdp.zip?sv=2023-01-03&st=2024-04-12T13%3A31%3A54Z&se=2024-06-30T13%3A31%3A00Z&sr=b&sp=r&sig=g9KjJYBNi2oXSUtSy34qwia5p2hvSHewuPxu0KMbWek%3D"
             }
           }
         ]
